@@ -14,15 +14,6 @@ Welcome to my GitHub! I'm a passionate and goal-driven individual currently in m
 - **Web Dev:** Responsive design, Frontend with Bootstrap, JS, REACT, GIT  
  
 
----
-
-## Current Focus
-
-- Preparing for company placements (targeting Zoho, Infosys, and others)  
-- Strengthening Data Structures and Algorithms using Python  
-- Completing full-stack and data analyst tracks  
-- Practicing Aptitude and SQL queries  
-- Posting daily coding progress on Instagram  
 
 ---
 
