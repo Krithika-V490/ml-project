@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/parkinsons-disease-classifier.git
+   git clone https://github.com/Krithika-V490/parkinsons-disease-classifier.git
 2. **Install dependencies:**
    Install the required Python packages using:
    ```bash
