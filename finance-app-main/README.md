@@ -26,8 +26,8 @@ This project is based on the tutorial by CodeWithAntonio:
 
  
    ![Overview](Assets/Overview.png)
-   ![Dashboard](Assets/Dashboard-chart.png)
-   ![Transactions](Assets/Transactions.png)
+   ![Dashboard](Assets/Dashbooard-chart.png)
+   ![Transactions](Assets/Transaction.png)
    
 
 
