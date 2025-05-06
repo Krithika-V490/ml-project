@@ -24,11 +24,11 @@ This project is based on the tutorial by CodeWithAntonio:
 
 
 
- ```markdown
+ 
    ![Login Pages](Assets/Accounts.png)
    ![Dashboard](Assets/Dashboard.png)
    ![Transactions](Assets/Transactions-History.png)
-   ```
+   
 
 
 
