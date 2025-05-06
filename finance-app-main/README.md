@@ -25,9 +25,9 @@ This project is based on the tutorial by CodeWithAntonio:
 
 
  
-   ![Login Pages](Assets/Accounts.PNG)
-   ![Dashboard](Assets/Dashboard-charts.PNG)
-   ![Transactions](Assets/Transactions-History.jpg)
+   ![Overview](Assets/Overview.png)
+   ![Dashboard](Assets/Dashboard-chart.png)
+   ![Transactions](Assets/Transactions.png)
    
 
 
