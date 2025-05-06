@@ -25,20 +25,14 @@ This project is based on the tutorial by CodeWithAntonio:
 
 
  ```markdown
-   ![Login Page](assets/login-page.png)
-   ![Dashboard](assets/dashboard.png)
-   ![Transactions](assets/transactions.png)
+   ![Login Pages](Assets/Accounts.png)
+   ![Dashboard](Assets/Dashboard.png)
+   ![Transactions](Assets/Transactions-History.png)
    ```
 
-3. **Alternatively**, use HTML for more control over image sizing and alignment:
 
-   ```html
-   <p align="center">
-     <img src="assets/login-page.png" alt="Login Page" width="600"/>
-     <img src="assets/dashboard.png" alt="Dashboard" width="600"/>
-     <img src="assets/transactions.png" alt="Transactions" width="600"/>
-   </p>
-   ```
+
+  
 
 For more detailed instructions on adding images to your `README.md`, see this [GeeksforGeeks guide](https://www.geeksforgeeks.org/how-to-add-images-to-readmemd-on-github/).
 
