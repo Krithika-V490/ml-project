@@ -26,7 +26,12 @@ This project is based on the tutorial by CodeWithAntonio:
 
  
    ![Overview](Assets/Overview.png)
+
+   
    ![Dashboard](Assets/Dashbooard-chart.png)
+
+
+   
    ![Transactions](Assets/Transaction.png)
    
 
@@ -34,7 +39,7 @@ This project is based on the tutorial by CodeWithAntonio:
 
   
 
-For more detailed instructions on adding images to your `README.md`, see this [GeeksforGeeks guide](https://www.geeksforgeeks.org/how-to-add-images-to-readmemd-on-github/).
+
 
 ---
 
@@ -62,8 +67,8 @@ For more detailed instructions on adding images to your `README.md`, see this [G
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/finance-saas-platform.git
-   cd finance-saas-platform
+   [git clone https://github.com/your-username/finance-saas-platform.git](https://github.com/Krithika-V490/ml-project)
+   
    ```
 
 2. **Install dependencies:**
@@ -130,4 +135,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this `README.md` to better fit your project's specific details and requirements. If you need assistance with deployment, additional features, or any other aspect, don’t hesitate to ask!
